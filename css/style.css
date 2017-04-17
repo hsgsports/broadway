@@ -1,0 +1,68 @@
+* {
+  font-family: Helvetica;
+}
+h1 {
+  font-style: bold;
+  font-size: 70px;
+  color: white;
+  text-align: center;
+}
+h3 {
+color: Whte;
+text-align: center;
+font-size: 18x;
+}
+h4 {
+font-size: 23px;
+}
+
+
+
+
+
+.heading {
+background-image: url(../resources/images/the-flatiron-building.png);
+font-family: Helvetica;
+color: white;
+font-size: 18px;
+color: white;
+text-align: center;
+}
+a:link {
+font-size: 18px;
+color: white;
+font-size: 18px;
+color: white;
+text-align: center;
+  }
+a:visited {
+color: white;
+}
+  h2 {
+  color: grey;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  }
+  .our_process, .identify_understand_execute {
+text-align: center;
+  }
+.new_york {
+background-image: url(../resources/images/the-flatiron-building.png);
+font-family: Helvetica;
+font-weight: bold;
+color: white;
+font-size: 23px;
+color: white;
+text-align: center;
+}
+.footer {
+  background-image: url(../resources/images/the-flatiron-building.png);
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  color: white:
+}
